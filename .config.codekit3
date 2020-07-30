@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/.gitignore",
+		"oF": 0
+		},
 	"/docs": {
 		"ft": 65536,
 		"oA": 1,
@@ -33,6 +41,17 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/source/assets/img/hero-bg.png": {
+		"ft": 32768,
+		"iS": 217665,
+		"oA": 0,
+		"oAP": "/docs/assets/img/hero-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/source/css/custom.css": {
 		"aP": 1,
